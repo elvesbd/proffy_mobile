@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" src="assets/Splash.png" width="50px">
-  <img alt="NextLevelWeek" src="assets/Onboarding.png" width="50px">
-  <img alt="NextLevelWeek" src="assets/Onboarding_1.png" width="50px">
-  <img alt="NextLevelWeek" src="assets/Home_mobile.png" width="50px">
+  <img alt="NextLevelWeek" src="assets/Splash.png" width="100px">
+  <img alt="NextLevelWeek" src="assets/Onboarding.png" width="100px">
+  <img alt="NextLevelWeek" src="assets/Onboarding_1.png" width="100px">
+  <img alt="NextLevelWeek" src="assets/Home_mobile.png" width="100px">
 </h1>
 
 <p align="center">Aplicação para interconectar alunos que buscam professores de forma online. </p>
